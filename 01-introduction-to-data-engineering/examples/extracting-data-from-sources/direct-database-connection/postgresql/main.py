@@ -3,7 +3,7 @@ import configparser
 import datetime
 
 import pandas as pd
-import psycopg2
+import psycopg2 ## module to extract file from postgresql
 from sqlalchemy import create_engine
 
 

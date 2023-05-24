@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "instant-bonfire-384606",
+  "private_key_id": "2324e1481ccbe7f7c74f0f640b1adac91b655698",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCmaovM+Z2bP5To\nG0ZLsNAe0zr/gsE4o92zOEO24Xwa9JQCv9Gxi3WMIlf1K68bk3KD6AnppAOd0oRg\nZbgfoeYLav9666HZWbIlux5c8cRU72QR7osKmWQYTxm2V7ObgOeP4nui0QG11T/6\nLxABLRrhz3bp1knsMmZaox7+JvFka4tYHNE/15B7VucrUGCoGBXPMkOGiRV3vaWH\nyvFSo3YwjUOQlm5LbMvnh5zO6myQBxah1rJHsUAHPhRchVcTR/kMC458Z/CeBYuL\nu2iM8cBhTZaG287Ul/XOjNnTMZ9O9Cl7jsrVheklCFAAoI/Og1AQxjeCmuj0gAjm\nSfAxG+2fAgMBAAECggEAA9aVzlGlWTXEHYpaDBIjpOJcrywngIinvHVH2Fr4SVok\nwN96zxrc9ut0OYa+IdANmrxTDu6O2VdIGz3L5xVqY1TY48+G7abdrrpfG+gK33da\nAt+Ax9O2DEwHeg+daDx8msP1f1HB2J0lVT4k0YlmJfY8AcvE1IYPmzHsIYc7Ivjv\niDO5MWED8qgH2v2HT8jdyQZ0UCNfYEB4diiykXN9kQamJ3/GTWzSM6MiwczLILBW\nl/HKkqGyYPym65cxeqd6TqH07aSWgpij25adp14o9brG2KCvSv69YHpCh3q259Ql\nVwgFc4zrus9PBYuKwzrOcMspj0RBmhlDJeuMa3wHkQKBgQDmeNDU7Jhn/Zy27a7H\nLN8eDgr5ncD+p8f2dJCK2/o5DUpu9CHWi+Jy8E6iYzqJP19WSo+xgWeIWICrsaxA\nzQvTPdCFGyBvEorCCnLJIFFTh3KmKyKGGeLgx5LNkxmkRfOw92fulMxOUlVImbtx\noSnLm1+KasoWF1ysrqMaFWcDmQKBgQC42WMu3tQE50pSdsPGbsRtLBqq8kXijuOA\nt4uCgaT0n9xCIhhO33O/MuOVTm692a74gZVwNJcNlnwkjsatHD1+ZQLtu9zbvOxx\n+4uSkiYmsRlGV3YbSVYZTS91KTwNJFpbzWDuhjF3ZRGXxS5SsARaUvrW/dt8KrLY\nj4KYvzw99wKBgAhWiJ+ba6wfdcL8eF1GV1AcC/OZ7HiKE2bsMqqDaNsViwLWnD7J\n0sh7vyyK0HxUqZtSmT4/w0IgiY8sn2G8yVe8HcYjBBpgnlqEzEBQhgCynsg6OUaG\nuzmMntgHIV9bFITrfnwYMAgJXIKC5VAoF34BQgSc9nC0KaspqkbwTUjJAoGARN/i\n/9zQ/P69B5ru+WneUJtFWHqrJW5+QECjf74Um31REWcozYKe2xf4CnLN+nk4o6mM\n5+EAg3SVzv1P88J4+zZh7/i2oz1ykEncyIEiK/qC413FSQd7SDQlQa9ai78G1/vf\naSChH86NzpIO34psJMeUZTTzagFy4BQg4g8nQCMCgYEAqHhk0Xd+tYyxJ3tm6u0U\neyd+dZJNEPX0SCP9uvXnWkOfGPiMa/E/l7H9D6MV1MA+VbXeTNi2ftbmD2qxktG4\nve43ZNEdiQfDwCJ5a5pK4IVFT+jZQGeZxhfjNViaMIe5yScdwzU37ruIDm3kmmBm\njFZVyBpD6gecAXvi97AKsZg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "deb-gcs-and-bigquery@instant-bonfire-384606.iam.gserviceaccount.com",
+  "client_id": "113572611429034819847",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/deb-gcs-and-bigquery%40instant-bonfire-384606.iam.gserviceaccount.com"
+}

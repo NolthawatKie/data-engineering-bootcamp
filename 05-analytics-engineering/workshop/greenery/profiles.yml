@@ -1,0 +1,41 @@
+greenery:
+  outputs:
+    dbt_zkan:
+      type: postgres
+      threads: 1
+      host: localhost
+      port: 5432
+      user: postgres
+      pass: "{{ env_var('DBT_ENV_SECRET_PG_PASSWORD') }}"
+      dbname: greenery
+      schema: dbt_zkan
+
+    prod:
+      type: postgres
+      threads: 1
+      host: localhost
+      port: 5432
+      user: postgres
+      pass: "{{ env_var('DBT_ENV_SECRET_PG_PASSWORD') }}"
+      dbname: greenery
+      schema: prod
+
+    dbt_nolthawatkie_bigquery:
+      type: bigquery
+      method: service-account
+      project: instant-bonfire-384606
+      dataset: dbt_ws_nolthawatkie
+      threads: 1
+      keyfile: /workspaces/data-engineering-bootcamp/00-bootcamp-project/instant-bonfire-384606-2324e1481ccb-gcs-bigquery.json
+      location: asia-southeast1
+
+    prod_bigquery:
+      type: bigquery
+      method: service-account
+      project: instant-bonfire-384606
+      dataset: deb_bootcamp
+      threads: 1
+      keyfile: /workspaces/data-engineering-bootcamp/00-bootcamp-project/instant-bonfire-384606-2324e1481ccb-gcs-bigquery.json
+      location: asia-southeast1
+
+  target: dbt_nolthawatkie_bigquery

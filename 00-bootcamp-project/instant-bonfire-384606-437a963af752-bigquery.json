@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "instant-bonfire-384606",
+  "private_key_id": "437a963af752e73f2eeb6f42cd3cecbf1145588c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC6XfyTzuhMh4qd\nEvgTNtcvsaMo1Cj+wzWN97g1qKvnlA++lZixOqHSgeq3FHYAvXjZ8i449phVHbGZ\n2D7alz7tEoYgopejiOtPP0QXYoFEFXgB5tNUq5ETeReu0U/ZM9SJv76Fqs0uITge\n5rSYRweIpxFqr73Kw/PU8xj9lYH9gUMcZDgZNFk4q1FMdQdPuD5zGr0hiehweo/d\nprs8HGQLrfNyqtrFtuEWAe9pP9cYIJwvrrlwJxhSVJHWJYJjQI8FFd9VZaIerN0G\nVOljy/gNElCt0+S4tfqw8peLbXsuRipNo0i3KTcRK7l+/DznL1wMlzH0XDS1E3NO\nJGb8BE4bAgMBAAECggEACv8sBvvelC4G/VWW2aCJtZVisJ4hXNi67y4X4XWIqhIk\nlIvWyp70/VjP286zV4kfuX9ev9sCSjrhGiFWWUKg/fzgnaWl3EFiXkkTd0fHWnOa\ntSBN4UpXNcjfes2g3eY10h9EPxHlg6WGTCYz1D8B2XB2P49CblWQY3vf1I4sqDX7\nHASyKNuFGWtoS2r/NLTGaj0b8q4uCjDxO7QfQEMGqP0Wn7WabxO3Q2/VeVFYcysq\nGTeFUM35XH1Cz10/yRmmbPOo9sSA7K8l+tFey1nh3ztJvXYisq4WEePKeSIwspiU\nLXLJRqzFsdiQmrIH4pp0z9R0S5IsoJuFmT/A6Up2NQKBgQDeQFyZyyYe//AyBP/G\nq9I1yLFliX0WY27FYbGQIjCY6e73AaQHH9MsItJN/4ljteDDWzr5FkLn275HlCjx\nhf+cTOpNkqv9b0MoifF5cLeTidvVFRs64ex0Srv7wxDCj292UKO9en5iEYv0Hyod\nEWm8WpfSlnTOOk68WuG3FGnJJwKBgQDWqq+TJ/ghA0w0Qwu+xVSwQ5//LczVR5d2\ntTwm5BxLe65ga+x3BuyKePl3R+MTTssRFrvr3smbxprzl/2Yo3hZ3wJ9CQ9frGo2\n3T6CW30sIr+2ZNylkTAADEtrJ4JURoTirSY2pTyF7J8o2dPuGIa2Caqg13Vhog7D\nu4eoKT1j7QKBgQC3Mqxh5Q9+PA+821wOYnE6/jwj6yndu4aCUt3vZg9S7Hmax5Jy\ngOwrlGRwALQ6KaCkx12cFpp9zidRjzIUrBSfvNLhsIXuuLjOAK64II5hoiA/y08P\nwUyMK1I623bEOUFycFQYCpGEutv3FX08Sq8yoCZHYtfTakKehfdKVxw/vwKBgBpe\n/5CxYU8U66Cj9+ZosX2x4Q7lHnu4/sdrfkc80KkJOaPIvlTk+dwM/oCDyUaO8G1a\nAJ36UYQcgt6X9mRw+JD5z4Fywnu7X5T72vkCqj7oyeprO5vvWRk4aW9xfBZET4DV\nSpN9+xBswCSxldJzGuF0EI0PyvDCitPKzuB+qHcFAoGAPNydgEZ75ehArE1OatJp\nWkwvz9fEE+HQncwuAtvFFK7KsTicBQMOK8SitFcTbkHLL78aUg74ziZtzyf8iqE/\n5KVWzxQfAw+Y7dgCDjunCBkVNOYT/9kavA64MHvXZeNAiMZNLJQEsHweRlbKsot5\nVVB3oEkMjh6BFFPT3/wlCPs=\n-----END PRIVATE KEY-----\n",
+  "client_email": "deb-bigquery-workshop-day-2-2@instant-bonfire-384606.iam.gserviceaccount.com",
+  "client_id": "106026171880330691319",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/deb-bigquery-workshop-day-2-2%40instant-bonfire-384606.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

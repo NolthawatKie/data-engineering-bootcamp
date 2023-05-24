@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "instant-bonfire-384606",
+  "private_key_id": "91d9ef3a9cc4f457a5323aac36ee0e56f6e0fd1d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCV+ns9zQuHsXwh\n7S5qBsdr4+5ubl6HYDNiDqg+THcI1Pxsfa6fllHA5Iu2XZJrBj56RwtpTSRm1YiM\nDfM5jaSjy5Oe6aJeLzRZdvEqVmnMp2alF0bcZHFy24U0Ccr8WBUvyVRNPKh2JBdA\nVq2ZO2gdSBKmsDMX2FVTkQw0N/gmOoAhk3W8SFp3xtpzFAD6ebpvwbL7/vN2ntFC\nTm3zIA0+bOTXWybzyaWg9ltf53UwAVGNj3O3FBPNO/+v9Q1/eP4v0kJaiUvoGglr\nknl5DVkq0w6NQGmYqLbmPGqXY/DqsJjb0knogQyDgnKZw5oabXhrCLAGjf7MFhAa\ntXOFipLxAgMBAAECggEAA9upDLCP/746Mx24tE/HFMCM50CV1C3ueHLn001wgPTI\npwpPIgoSAZAng2oSDIiBNjBKa/uo6G/NBsxLkdMR1YhUvHFmZL2aX0RK5SPKrjHu\ntye7ggsf63xX53wqgXYLGnr3fRKmwz4/rl8kcVUIwzsRxsGw2MfO/xqzuYqoiqQr\nwV1vEwGvq/de5AYxcpXKe5SeBI4TxUV74ZoV+XKAbdl0lXkzEAN2NlB/t9rI5kwn\n/gqDTvNnIZSLIErYGCt7r8Kn6wV89LgKmP51rPIJXq0BIfzlDDQK1Q29pnl/xVeI\nWI31llTDpa7/lk61aerduwYfjaADH+TVNDgibFRL2QKBgQDSDkiPez8ZbiOpUino\nCJv7c/MAj2nVXZBqWNyO9MJGDlK1tvKQ2VKgXx67xJt5Y2C3uMGKVkgXQ1qCafr+\ncDfzSZLpiVUEWeai4dNvpaXJKRajkto4JBMf3aT6GkKpkqctpuR41GHyIsEv0Nxj\nxTUw+xB7reO4loRxvzf+EZxMiQKBgQC2yETaiF22ZPzcrZJZ+GDlZvXXIG8ue5F2\nmKpnk92/2IV5543+LuKSaq1Fd80rVbhqk3N9Jw/QIAPQZe0+pLg1qkWLsq16aamM\ndQxJB1yoShyRZbcHZabDOe6DaxgXqw14odqa60IqKMavtasQp6t5A5veNbEWrO3o\n1PTi2OWJKQKBgQCN5FQjiA9xsDKqt/PS563mR8bIhBfrp05caDZk4vUwuZApa7Gj\nIwprhpWOJRsY/oZg1I74UZxVCoxjOA/yO/+vee2hj8E8NTZUpNNcwbqhjf3a9OIv\ntj6s8d31jDOntIb1kZ0X+e9Hzy5MjHuzcY2izpWt1iLTl+lTpOW/3EmGcQKBgCKy\np+d4RZnvV9UomgS8UuCZiAe7n3+Kc5W463hYKJtXphb7LwhWrCoxWA087dTRI/4P\nWbgjZywSN8ci4kOnD1UYqrUXSTlYv5frTFa8sAk+cGflkDY2RM8Au1d1SBCOJzOE\nPjR0fo30SatnaD70JWgGmFs5hBGS6GLvskEx/XjpAoGBAIEh+wVkAUeVqLWK60s8\nJbSa4MxUkh1zZGTCUu+cfA27zeddjsEWYEw3q9oAXWdwAWFv+5AiM2Uip/P/mUCV\nnQ0+6/iMp2uaXPJclIIYrU1z6UXKFLSN8eaJMcnbgq0FBut8iesxxfgPGSjC8Kvz\nDFiXMOrX3YwlwQMcUnK5ozzI\n-----END PRIVATE KEY-----\n",
+  "client_email": "deb-gcs-workshop-day-3@instant-bonfire-384606.iam.gserviceaccount.com",
+  "client_id": "108797464982925743352",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/deb-gcs-workshop-day-3%40instant-bonfire-384606.iam.gserviceaccount.com"
+}
