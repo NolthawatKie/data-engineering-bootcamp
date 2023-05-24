@@ -26,7 +26,7 @@ greenery:
       project: instant-bonfire-384606
       dataset: dbt_ws_nolthawatkie
       threads: 1
-      keyfile: /workspaces/data-engineering-bootcamp/00-bootcamp-project/instant-bonfire-384606-2324e1481ccb-gcs-bigquery.json
+      keyfile: /Users/nolthawatkietsaro/Documents/GitHub/data-engineering-bootcamp/00-bootcamp-project/instant-bonfire-384606-2324e1481ccb-gcs-bigquery.json
       location: asia-southeast1
 
     prod_bigquery:
@@ -35,7 +35,7 @@ greenery:
       project: instant-bonfire-384606
       dataset: deb_bootcamp
       threads: 1
-      keyfile: /workspaces/data-engineering-bootcamp/00-bootcamp-project/instant-bonfire-384606-2324e1481ccb-gcs-bigquery.json
+      keyfile: /Users/nolthawatkietsaro/Documents/GitHub/data-engineering-bootcamp/00-bootcamp-project/instant-bonfire-384606-2324e1481ccb-gcs-bigquery.json
       location: asia-southeast1
 
   target: dbt_nolthawatkie_bigquery
