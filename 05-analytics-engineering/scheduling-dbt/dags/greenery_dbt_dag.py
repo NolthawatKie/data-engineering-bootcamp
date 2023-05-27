@@ -12,7 +12,7 @@ example_dbt_project = DbtDag(
     catchup=False,
     dbt_project_name="greenery",
     dbt_args={
-        "schema": "deb_nolthawatkie"
+        "schema": "dbt_ws_nolthawatkie"
     },
     dbt_root_path="/opt/airflow/dbt",
     tags=["DEB", "2023"]
