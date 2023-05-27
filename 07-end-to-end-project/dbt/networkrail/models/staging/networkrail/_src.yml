@@ -1,0 +1,44 @@
+version: 2
+
+sources:
+  - name: networkrail
+    schema: networkrail
+    database: instant-bonfire-384606
+
+    tables:
+      - name: movements
+        description: Network Rail movement data
+        columns:
+          - name: event_type
+            description: Event type
+          - name: gbtt_timestamp
+          - name: original_loc_stanox
+          - name: planned_timestamp
+          - name: timetable_variation
+          - name: original_loc_timestamp
+          - name: current_train_id
+          - name: delay_monitoring_point
+          - name: next_report_run_time
+          - name: reporting_stanox
+          - name: actual_timestamp
+          - name: correction_ind
+          - name: event_source
+          - name: train_file_address
+          - name: platform
+          - name: train_terminated
+          - name: train_id
+          - name: offroute_ind
+          - name: variation_status
+          - name: train_service_code
+          - name: toc_id
+          - name: loc_stanox
+          - name: auto_expected
+          - name: direction_ind
+          - name: route
+          - name: planned_event_type
+          - name: next_report_stanox
+          - name: line_ind
+        freshness:
+          warn_after: { count: 1, period: hour }
+          error_after: { count: 2, period: hour }
+        loaded_at_field: actual_timestamp

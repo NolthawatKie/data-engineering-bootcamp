@@ -1,0 +1,21 @@
+networkrail:
+  target: dbt_kong
+
+  outputs:
+    dbt_kong:
+      type: bigquery
+      method: service-account
+      project: instant-bonfire-384606
+      dataset: dbt_Nolthawat
+      threads: 1
+      keyfile: /Users/nolthawatkietsaro/Documents/GitHub/data-engineering-bootcamp/07-end-to-end-project/dbt/instant-bonfire-384606-2324e1481ccb-gcs-bigquery.json
+      location: asia-southeast1
+
+    prod:
+      type: bigquery
+      method: service-account
+      project: instant-bonfire-384606
+      dataset: networkrail
+      threads: 1
+      keyfile: /Users/nolthawatkietsaro/Documents/GitHub/data-engineering-bootcamp/07-end-to-end-project/dbt/instant-bonfire-384606-2324e1481ccb-gcs-bigquery.json
+      location: asia-southeast1
